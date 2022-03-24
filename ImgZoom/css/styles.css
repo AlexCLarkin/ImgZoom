@@ -1,0 +1,8 @@
+#overlay {
+  border: 1px solid black;
+  width: 350px;
+  height: 250px;
+  display: inline-block;
+  background-image: url("../images/Bill.jpg");
+  background-repeat: no-repeat;
+}
